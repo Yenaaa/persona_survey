@@ -1,5 +1,4 @@
-# Persona Survey (뼈대 프로젝트)
-
+# Persona Survey
 LLM에게 페르소나를 부여하고, 그 페르소나 입장에서 설문에 응답하게 하는 실험용 스켈레톤입니다.
 페르소나는 [nvidia/Nemotron-Personas-Korea](https://huggingface.co/datasets/nvidia/Nemotron-Personas-Korea) 데이터셋에서 샘플링하고, LLM 호출은 OpenAI / Anthropic(Claude) / Google(Gemini) 중 `.env`로 고른 provider를 사용합니다.
 
