@@ -52,7 +52,7 @@ python main.py
 ## 디렉토리 구조
 
 ```
-project_kang/
+persona_survey/
 ├── main.py                     # 오케스트레이션 + 실행 진입점 (여기 하나뿐)
 ├── requirements.txt
 ├── .env.example
