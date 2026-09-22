@@ -1,0 +1,21 @@
+{
+  "run_id": "20260922_122259_anthropic_claude-sonnet-5_custom",
+  "provider": "anthropic",
+  "model": "claude-sonnet-5",
+  "temperature": 1.0,
+  "field_set": "custom",
+  "field_set_fields": {
+    "narrative": [
+      "persona"
+    ],
+    "demographic": [
+      "age"
+    ]
+  },
+  "n_personas": 1,
+  "repeats_per_persona": 1,
+  "random_seed": 42,
+  "persona_dataset_name": "nvidia/Nemotron-Personas-Korea",
+  "persona_dataset_split": "train",
+  "started_at": "2026-09-22T03:22:59.065361+00:00"
+}
